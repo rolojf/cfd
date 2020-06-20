@@ -97,3 +97,6 @@ typings/
 
 # Directorio donde hay cosas que no son de GitHub -> S3
 lo-anterior
+
+# Local Netlify folder
+.netlify
