@@ -1,13 +1,13 @@
 ######################## default configuration ####################
-baseURL = "http://www.comunidadfamiliadedios.org/"
+baseURL = "http://comunidadfamiliadedios.org/"
 languageCode = "es-mx"
 title = "CFD"
 theme = "educenter-hugo"
 DefaultContentLanguage = "es"
 # post pagination
-paginate = "6"
+paginate = "4"
 # post excerpt
-summaryLength = "10"
+summaryLength = "6"
 # disqus short name
 # disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
