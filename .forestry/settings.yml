@@ -4,14 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: content/espanol/events
+  label: Eventos
+  create: all
+  match: "**/*"
 - type: document
   path: data/es/homepage.yml
   label: Data
-- type: directory
-  path: content
-  label: Paginas
-  create: all
-  match: "*"
 - type: directory
   path: content/espanol
   label: Espanol
