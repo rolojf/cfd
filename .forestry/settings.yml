@@ -7,10 +7,9 @@ sections:
 - type: document
   path: data/es/homepage.yml
   label: Data
-  match: "**/*"
 - type: directory
   path: content
-  label: Pages
+  label: Paginas
   create: all
   match: "*"
 - type: directory
