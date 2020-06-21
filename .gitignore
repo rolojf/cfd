@@ -100,3 +100,4 @@ lo-anterior
 
 # Local Netlify folder
 .netlify
+/public/

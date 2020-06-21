@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://comunidadfamiliadedios.org/"
+baseURL = "https://comunidadfamiliadedios.org/"
 languageCode = "es-mx"
 title = "CFD"
 theme = "educenter-hugo"
