@@ -119,7 +119,7 @@ description = "Comunidad Familia de Dios, movimiento católico"
 author = "Rolando"
 # contact info
 address = "Monterrey N.L."
-email = "info@comunidadfamiliadedios.org"
+email = "contacto en comunidadfamiliadedios.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs

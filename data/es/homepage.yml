@@ -31,24 +31,24 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Católico"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Movimiento Católico"
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Asesor"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Nuestro Asesor es el Pbro. José Garza Madero, actual rector de la basílica de Fátima en San Pedro Graza García, N.L."
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "CAL sector Familia"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Integrado a la Comision para los Laicos sección Familia dirigida por el Pbro. Lomelí"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "En Expansión"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Actualmente con precencia en Monterrey, Monclova, Saltillo, McAllen TX, USA"
 
 
 ############################## about ##################################
@@ -70,7 +70,7 @@ course:
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Click to Join the Advance Workshop"
   title : "Training In Advannce Networking"
   button:
@@ -81,7 +81,7 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
@@ -96,7 +96,7 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Próximos Eventos"
   # event item comes from "content/**/event" folder.
 
   
@@ -116,6 +116,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : false
-  title : "Latest News"
+  enable : true
+  title : "Noticias"
   # blog item comes from "content/**/blog" folder.
