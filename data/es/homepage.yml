@@ -29,27 +29,26 @@ slider:
 banner_feature:
   enable : true
   image : "images/banner/banner-feature.png"
-  feature_item:
+  feature_item: 
     # feature item loop
-    - name : "Católico"
+    - name : "Somos Católicos"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Movimiento Católico"
+      content : "Somos un grupo que pertenece a la Santa Iglecia Católica y es Asesorado por el Pbro. José Garza Madero"
 
     # feature item loop
-    - name : "Asesor"
+    - name : "Somos Comunidad"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Nuestro Asesor es el Pbro. José Garza Madero, actual rector de la basílica de Fátima en San Pedro Graza García, N.L."
+      content : "Participando en nuestras pequeñas comunidades de oración, se crean fuertes lazos de hermandad centrada en Jesucristo"
 
     # feature item loop
-    - name : "CAL sector Familia"
+    - name : "Somos Familia"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Integrado a la Comision para los Laicos sección Familia dirigida por el Pbro. Lomelí"
+      content : "Buscamos la salvación de toda nuestra familia, la salvación que está en la fe y conversión hacia Jesucristo nuestro Señor que está vivo y resucitado"
 
     # feature item loop
-    - name : "En Expansión"
+    - name : "Somos Carismáticos"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Actualmente con precencia en Monterrey, Monclova, Saltillo, McAllen TX, USA"
-
+      content : "Creemos en el poder y la acción de Espíritu Santo, hoy, en nuestras vidas, y en nuestra oración."
 
 ############################## about ##################################
 about:

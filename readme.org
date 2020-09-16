@@ -1,0 +1,9 @@
+* Apuntes sobre el proyecto cfd
+
+* Theme and submodule
+el theme tiene como remote:
+origin un repo de rolojf
+y original el repo de ed
+
+* Hosting
+La cuenta de Netlify está ligada al github
